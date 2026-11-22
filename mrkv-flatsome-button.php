@@ -4,6 +4,8 @@
  * Plugin URI: https://morkva.co.ua/
  * Description: Enables header buttons string translation. Need flatsome customization services? support@morkva.co.ua
  * Version: 0.1.2
+ * Tested up to: 7.1
+ * WC tested up to: 11.3
  * Author: MORKVA
  * Text Domain: morkva-flatsome-button-translation
  * License: GPLv2
